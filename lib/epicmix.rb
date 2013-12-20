@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-require "epicmix/version"
+# require "epicmix/version"
 require 'httparty'
 
 module Epicmix
