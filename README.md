@@ -3,6 +3,16 @@ EpicMix Gem
 
 A Ruby gem for accessing your EpicMix data.
 
+
+### What is Epic Mix?
+
+EpicMix is Vail Resort's data layer and analytics platform, currently supported at: Vail, Beaver Creek, Breck, Keystone, Canyons, Heavenly, Northstar, Kirkwood, Afton Alps, Mt. Brighton.
+
+If you ski or board at any of these locations and have an EpicMix enabled pass and account you can retrive your data.
+
+Epicmix uses Passive RFIDs in the passes and high-gain recivers at nearly every chairlift line.
+
+
 ### Usage
 
     gem install epicmix
