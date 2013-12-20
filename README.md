@@ -1,6 +1,8 @@
 EpicMix Gem
 ===========
 
+[![Build Status](https://travis-ci.org/jpsilvashy/epicmix.png?branch=master)](https://travis-ci.org/jpsilvashy/epicmix)
+
 A Ruby gem for accessing your EpicMix data.
 
 
@@ -10,7 +12,7 @@ EpicMix is Vail Resort's data layer and analytics platform, currently supported 
 
 If you ski or board at any of these locations and have an EpicMix enabled pass and account you can retrive your data.
 
-Epicmix uses Passive RFIDs in the passes and high-gain recivers at nearly every chairlift line.
+Epicmix uses Passive RFIDs in the passes and high-gain recivers at nearly every chairlift line. More details can be found on the [EpicMix site](https://www.epicmix.com/How-It-Works.aspx#faq).
 
 
 ### Usage
