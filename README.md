@@ -12,7 +12,7 @@ EpicMix is Vail Resort's data layer and analytics platform, currently supported 
 
 If you ski or board at any of these locations and have an EpicMix enabled pass and account you can retrive your data.
 
-Epicmix uses Passive RFIDs in the passes and high-gain recivers at nearly every chairlift line. More details can be found on the [EpicMix site](https://www.epicmix.com/How-It-Works.aspx#faq).
+Epicmix uses Passive RFIDs in the passes and high-gain recivers at nearly every chairlift line. More details can be found on the [EpicMix site](https://www.epicmix.com/HowItWorks.aspx#epicmix).
 
 
 ### Usage
